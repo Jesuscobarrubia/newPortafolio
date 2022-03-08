@@ -26,10 +26,10 @@ class Trabajo {
 };
 
 export const TRABAJOS = [
-    new Trabajo ({id: "1", img:"./newPortafolio/img/trabajo1.jpg", url:"https://jesuscobarrubia.github.io/layout/", tecnologias:"HTML5 - SASS"}),
-    new Trabajo ({id: "2", img:"./newPortafolio/img/trabajo2.jpg", url: "https://jesuscobarrubia.github.io/startup/", tecnologias:"HTML5 - SASS - BOOTSTRAP"}),
-    new Trabajo ({id: "3", img:"./newPortafolio/img/trabajo3.jpg", url:"https://jesuscobarrubia.github.io/tecnologia/", tecnologias:"HTML5 - CSS - BOOTSTRAP"}),
-    new Trabajo ({id: "4", img:"./newPortafolio/img/trabajo4.jpg", url:"https://jesuscobarrubia.github.io/cafe/", tecnologias:"HTML5 - SASS - JQUERY"}),
-    new Trabajo ({id: "5", img:"./newPortafolio/img/trabajo5.jpg", url:"https://jesuscobarrubia.github.io/PetShop-Carrito/index.html", tecnologias:"HTML5 - SASS - BOOTSTRAP - JAVASCRIPT"}),
-    new Trabajo ({id: "6", img:"./newPortafolio/img/trabajo6.jpg", url: "https://jesuscobarrubia.github.io/ecommerce/", tecnologias:"HTML5 - SASS - BOOTSTRAP - JAVASCRIPT - REACT"})
+    new Trabajo ({id: "1", img:"./img/trabajo1.jpg", url:"https://jesuscobarrubia.github.io/layout/", tecnologias:"HTML5 - SASS"}),
+    new Trabajo ({id: "2", img:"./img/trabajo2.jpg", url: "https://jesuscobarrubia.github.io/startup/", tecnologias:"HTML5 - SASS - BOOTSTRAP"}),
+    new Trabajo ({id: "3", img:"./img/trabajo3.jpg", url:"https://jesuscobarrubia.github.io/tecnologia/", tecnologias:"HTML5 - CSS - BOOTSTRAP"}),
+    new Trabajo ({id: "4", img:"./img/trabajo4.jpg", url:"https://jesuscobarrubia.github.io/cafe/", tecnologias:"HTML5 - SASS - JQUERY"}),
+    new Trabajo ({id: "5", img:"./img/trabajo5.jpg", url:"https://jesuscobarrubia.github.io/PetShop-Carrito/index.html", tecnologias:"HTML5 - SASS - BOOTSTRAP - JAVASCRIPT"}),
+    new Trabajo ({id: "6", img:"./img/trabajo6.jpg", url: "https://jesuscobarrubia.github.io/ecommerce/", tecnologias:"HTML5 - SASS - BOOTSTRAP - JAVASCRIPT - REACT"})
 ];

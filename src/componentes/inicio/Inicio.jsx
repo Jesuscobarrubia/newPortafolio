@@ -22,7 +22,7 @@ const Inicio = () => {
       <div className='col-12 container containerInicio'>
         <h1 className='miNombre'>Jesús Cobarrubia</h1>
           <h3 className='frontEnd'>Front End Jr.</h3>
-            <img className='imagenInicio' src="./newPortafolio/img/fondoInicio.jpg" alt="fondoInicio" />
+            <img className='imagenInicio' src="./img/fondoInicio.jpg" alt="fondoInicio" />
 
             <Link to={'/sobreMi'} className='candado'
               onMouseEnter={() => setCandado(false)}
