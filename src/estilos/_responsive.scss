@@ -1,30 +1,69 @@
 @media screen and (max-width:990px){
-    .navbar{
-        ul{
-            li{
-                .JC{
-                    position: absolute;
-                    right: 0;
-                }
-            }
-        }
+    .navbar{    
+        text-align: center;
+
     }
 
 }
 @media screen and (max-width:768px){
     html{
         font-size:12px;
+
+        .imagenInicio{
+            width:100%;
+        }
+
+        .cajaSobreMi{
+            margin: 0 10px;
+        }
+
+        .seccionHabilidades{
+            margin: 0 10px;
+        }
     }
 }
 
 @media screen and (max-width:470px){
     html{
         font-size:8px;
+
+        .imagenInicio{
+            width:100%;
+        }
+
+        .miNombre{  
+            margin: 30px 0 0 0 ;
+        }
     }
 }
 
 @media screen and (max-width:310px){
     html{
-        font-size:5px;
+        font-size:8px;
+
+        .containerInicio{   
+                .imagenInicio{
+                    width:100%;
+                }
+
+                .miNombre{  
+                    font-size: 3rem;
+                    margin: 30px 0 0 0 ;        
+                }
+        
+                .frontEnd{
+                    font-size: 2rem;
+                    margin: 10px 0 0 0 ;
+                }
+        
+                .candado{
+                    margin: 5px 0 10px 0 ;
+                }
+        
+                .flechaInicio{
+                    margin: 0;
+                }
+        
+        }        
     }
 }

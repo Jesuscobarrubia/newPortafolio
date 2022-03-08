@@ -34,7 +34,7 @@ const Contacto = () => {
           </div>
           {/* IMAGEN */}
           <div className="col-6 cajaImg">
-              <img src="../img/developer.jpg" alt="developer" />
+              <img src="./newPortafolio/img/developer.jpg" alt="developer" />
           </div>
         </div>
       </div>
