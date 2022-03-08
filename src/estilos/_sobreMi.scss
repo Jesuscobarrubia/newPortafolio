@@ -1,0 +1,44 @@
+.cajaSobreMi{
+    text-align: justify;
+    margin: 20px 0;
+
+    h3{
+        text-align: center;
+        font-size: 2.125rem;
+    }
+
+    p{
+        font-size: 1.125rem;
+
+        .tecnologias{
+            font-size: 1.25rem;
+            font-weight: 600;
+        }
+    }
+
+}
+
+.spinner{
+    margin-top: 250px;
+        .spinner-grow{
+            color: $celeste;
+            width: 4rem;
+            height: 4rem;
+        }
+}
+
+.seccionHabilidades{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    .item{
+        width: 4rem;
+        height: 4rem;
+    }
+    
+    h3{
+        font-size: 2.125rem;
+        margin: 20px 0 30px 0;
+    }
+}
