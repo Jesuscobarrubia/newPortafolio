@@ -25,21 +25,33 @@
 
 @media screen and (max-width:470px){
     html{
-        font-size:8px;
+        font-size:11px;
 
-        .imagenInicio{
-            width:100%;
-        }
+        .containerInicio{   
+                .imagenInicio{
+                    width:100%;
+                }
 
-        .miNombre{  
-            margin: 30px 0 0 0 ;
-        }
+                .miNombre{  
+                    font-size: 4rem;
+                    margin: 30px 0 0 0 ;        
+                }
+        
+                .frontEnd{
+                    font-size: 3rem;
+                }
+        
+                .flechaInicio{
+                    margin: 0;
+                }
+        
+        }        
     }
 }
 
 @media screen and (max-width:310px){
     html{
-        font-size:8px;
+        font-size:10px;
 
         .containerInicio{   
                 .imagenInicio{
